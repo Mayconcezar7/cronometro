@@ -17,4 +17,4 @@ Java Script
 <img src="img/mobile.png">
 
 <h3>Desktop: </h3>
-<img src="img/desktop.png">
+<img src="https://github.com/Mayconcezar7/cronometro/blob/main/img/Desktop.png">
