@@ -1,4 +1,4 @@
-<h1 align="center">Contador</h1>
+<h1 align="center">Cronômetro</h1>
 <br>
 <h3> Esse foi um projeto que eu aprendi no <a href="https://www.devclub.com.br">Dev Club</a></h3>
 <br>
