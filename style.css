@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Big Shoulders", sans-serif;
+}
+
+
+
+
+h1 {
+
+    font-size: 170px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 14%;
+}
+
+div {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+   
+
+
+}
+
+
+button {
+
+    width: 269px;
+    height: 62px;
+    border: none;
+    border-radius: 10px;
+    background-color: #9499EA;
+
+
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35.57px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+
+
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+button:hover {
+    background-color: rgba(148, 152, 234, 0.904);
+
+}
+
+button:active {
+    background-color: rgba(148, 152, 234, 0.596);
+}
